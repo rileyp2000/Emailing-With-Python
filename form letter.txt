@@ -1,0 +1,15 @@
+Dear %s, 
+
+My name is Patrick Riley and on behalf of the Bishop Ireton High School Coding Club, I would like to invite you and your students to our Hackathon.  The event will take place from January 20 at 8:00 AM to January 21 at 10:00 AM. We plan to accommodate 125 participants, tickets are free and food will be provided, but registration is required.
+
+Students from all over the Northern Virginia area are invited to learn about different subjects related to Computer Science and practice their skills with other high school coders like themselves. The environment is open to students of all skill levels, from beginner to advanced.  Students will be exposed to professionals in the industry who care about fostering an interest in software development.  There will be student and sponsor-led workshops focused on both improving student skills and teaching how to integrate the technology provided by our sponsors into projects.  We strongly encourage all students with an interest in STEM fields to consider attending this hackathon.
+
+At the event, students, working in teams, will develop a project using the language/platform of their choice.  They will present their project at the end of the event and there will be several categories of prizes awarded.  Eighth grade students are invited from 8:00 AM - 8:00 PM on January 20th, High School students are invited from 8:00 AM on January 20th to 10:00 AM on January 21st.
+
+There will be several workshops designed to help students with coding.  Students with no coding experience can attend the hackathon, attend a workshop, and come away with a prize for the project they create.  There will be a small number of computers available for eighth grade students who cannot bring their own laptop.
+
+I hope you will share this information with the student body of your school.  I have enclosed a flyer that could be handed out for your convenience.  Our registration web-site is hackbi.org.  If you have any questions, please e-mail hackbi@bishopireton.org.
+
+Thank you,
+
+Patrick Riley
